@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luansilvadb&show_icons=true&locale=en" alt="luandev-db" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luandev-db&" alt="luandev-db" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luansilvadb&" alt="luandev-db" /></p>
